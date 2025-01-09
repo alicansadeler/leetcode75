@@ -13,7 +13,7 @@ Sonuç: "apbqcr" olmalı
 
 İki string'in karakterlerini sırayla alacağız
 İki pointer kullanabiliriz (two pointers yaklaşımı)
-Eğer bir string biterse, diğer string'in kalan karakterlerini ekleriz
+Eğer bir string biterse, diğer string'in kalan karakterlerini ekleriz.
  */
 public class MergeString {
     public String mergeAlternately(String word1, String word2) {
