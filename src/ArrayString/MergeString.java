@@ -1,8 +1,5 @@
 package ArrayString;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /*
 İki string veriliyor: word1 ve word2
 Bu stringleri sırayla karakterleri alarak birleştirmemiz gerekiyor
