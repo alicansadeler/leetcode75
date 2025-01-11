@@ -28,3 +28,4 @@ Array: [1, 2, 3, 4, 5], window size = 3
 - Window'u kaydırırken eski elemanı çıkarıp yeni elemanı eklemek
 - Edge case'leri düşünmek (boş array, window size array'den büyükse, vs.)
 
+sum = sum - nums[i-k] + nums[i];
